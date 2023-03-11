@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Isuru U. Senarathne
+### Hi there 👋 
+<b>I am Isuru U. Senarathne</b>
 #### I am programmer
 ![I am programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 

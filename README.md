@@ -30,7 +30,7 @@ I am a Full Stack Developer from Sri Lanka.
 
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Avishka-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avishka2k)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Avishka-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isuruu99)
 
 ### :hammer_and_wrench: Languages and Tools :
 

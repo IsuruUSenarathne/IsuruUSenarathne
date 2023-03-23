@@ -10,6 +10,9 @@
   <a href="https://www.facebook.com/profile.php?id=100041133763903" target="_blank">
     <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+    <a href="https://twitter.com/isuru__U_sena" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=yellow" alt="Facebook Badge"/>
+  </a>
 </div>
 <img src="https://gpvc.arturio.dev/IsuruUSenarathne" alt=""/>
 <h1>

@@ -2,13 +2,14 @@
 <b>
 I am a Full Stack Developer from Sri Lanka.
 
+
 🔭 I am currently studying software engineering at NSBM Green University.
 
 🌱 Exploring Technical Content.
 
 ⚡ In my free time, I solve problems on Hackerrank and read tech articles.
 
-📫How to reach me: Linkedin Badge</b>
+📫How to reach me: https://www.linkedin.com/in/isuruu99/</b>
 #### I am programmer
 ![I am programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 

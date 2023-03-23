@@ -59,7 +59,5 @@ I am a Full Stack Developer from Sri Lanka.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsuruUSenarathne&layout=compact&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsuruUSenarathne&layout=compact&theme=dark)
-
 <!-- Resources -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->

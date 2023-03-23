@@ -13,7 +13,7 @@
     <a href="https://twitter.com/isuru__U_sena" target="_blank">
     <img src=">https://img.shields.io/twitter/url?style=social"/>
   </a>
-</div
+  </div>
 <img src="https://gpvc.arturio.dev/IsuruUSenarathne" alt=""/>
 <h1>
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,<br/> I am Isuru Uthpala

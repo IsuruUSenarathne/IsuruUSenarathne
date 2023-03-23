@@ -16,7 +16,7 @@
 </div>
 <img src="https://gpvc.arturio.dev/avishka2k" alt=""/>
 <h1>
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,<br/> I am Avishka Prabath
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,<br/> I am Isuru Uthpala
 </h1>
 </div>
 

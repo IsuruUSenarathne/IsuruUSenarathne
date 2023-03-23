@@ -39,24 +39,16 @@ I am a Full Stack Developer from Sri Lanka.
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Docker-1572B6?logo=docker&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Vercel-111111?logo=vercel&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Terraform-7740b6?logo=terraform&style=flat-square&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Aws-011?style=flat-square&logo=amazon"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=FFBB00"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white"/>
 </div>
 
 🛠️ Languages and Tools :                                                                                   
@@ -66,5 +58,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 

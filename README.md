@@ -52,7 +52,6 @@ I am a Full Stack Developer from Sri Lanka.
 </div>
 
 
-![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### :fire: My Stats :
 

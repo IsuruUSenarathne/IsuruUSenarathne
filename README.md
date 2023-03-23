@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/isuruu99" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/avishka2k" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100041133763903" target="_blank">
     <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.hackerrank.com/avishka2k" target="_blank">

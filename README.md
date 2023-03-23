@@ -58,16 +58,6 @@ I am a Full Stack Developer from Sri Lanka.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white"/>
 </div>
-I am a Full Stack Developer from Sri Lanka.
-
-
-🔭 I am currently studying software engineering at NSBM Green University.
-
-🌱 Exploring Technical Content.
-
-⚡ In my free time, I solve problems on Hackerrank and read tech articles.
-
-📫How to reach me: https://www.linkedin.com/in/isuruu99/</b>
 
 🛠️ Languages and Tools :                                                                                   
                                          

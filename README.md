@@ -10,9 +10,6 @@
   <a href="https://www.facebook.com/profile.php?id=100041133763903" target="_blank">
     <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/avishka2k" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"/>
-  </a>
 </div>
 <img src="https://gpvc.arturio.dev/avishka2k" alt=""/>
 <h1>

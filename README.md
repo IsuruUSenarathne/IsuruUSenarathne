@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
     <a href="https://twitter.com/isuru__U_sena" target="_blank">
-    <img src=">https://img.shields.io/twitter/url?style=social" alt="Twitter Badge"/>
+    <img src=">https://img.shields.io/twitter/url?style=social"/>
   </a>
 </div
 <img src="https://gpvc.arturio.dev/IsuruUSenarathne" alt=""/>

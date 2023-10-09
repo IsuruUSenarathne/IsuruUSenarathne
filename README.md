@@ -65,6 +65,5 @@ I am a Full Stack Developer from Sri Lanka.
 
   <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/9fPS5HZ5S_GjvVUu1a5_fw"><img width="180px" height="180px" src="https://api.badgr.io/public/assertions/9fPS5HZ5S_GjvVUu1a5_fw/image"></a></blockquote>
 
-
 <!-- Resources -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->

@@ -58,8 +58,12 @@ I am a Full Stack Developer from Sri Lanka.
 ![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsuruUSenarathne&show_icons=true&theme=dark&include_all_commits=true)_____![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsuruUSenarathne&layout=compact&theme=dark)
 
 
+
+### :fire: My Achievements:
+
 [![An image of @isuruusenarathne's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isuruusenarathne)](https://holopin.io/@isuruusenarathne)
 
+  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/9fPS5HZ5S_GjvVUu1a5_fw"><img width="180px" height="180px" src="https://api.badgr.io/public/assertions/9fPS5HZ5S_GjvVUu1a5_fw/image"></a></blockquote>
 
 <!-- Resources -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
